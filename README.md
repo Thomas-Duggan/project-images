@@ -18,7 +18,7 @@
 
 **Rendered Output:**
 
-##Images
+## Images
 <details>
 <summary>Click me!</summary>
 
