@@ -15,6 +15,8 @@
 
 \</details\>
 
+---
+
 ### Rendered Output:
 
 ## Images
