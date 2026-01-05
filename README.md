@@ -14,6 +14,7 @@ Each set of images is found under the folder named after its repo.
 
 OR
 
+(Used when inside of a dropdown)
 \<figure\>
 \<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\>
 \<p\>Home page for DosirakLiFT\</p\>
@@ -23,5 +24,5 @@ OR
 **Rendered Output (first option):**
 <figure>
 <img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300>
-<p>Home page for DosirakLiFT</p>
+<figcaption>Home page for DosirakLiFT</figcaption>
 </figure>
