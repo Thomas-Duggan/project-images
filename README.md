@@ -5,15 +5,6 @@
 
 **Raw Markdown:**
 
-\<figure\> 
-\<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\> 
-\<figcaption\>\<strong\>^ Home page for DosirakLiFT\</strong\></figcaption\> 
-\</figure\>
-
-OR
-
-Used when inside of a dropdown:
-
 \<figure\>
 \<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\>
 \<p\>\<strong\>^ Home page for DosirakLiFT\</strong\>\</p\>
@@ -23,5 +14,5 @@ Used when inside of a dropdown:
 **Rendered Output (first option):**
 <figure>
 <img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300>
-<figcaption><strong>^ Home page for DosirakLiFT</strong></figcaption>
+<p><strong>^ Home page for DosirakLiFT</strong></p>
 </figure>
