@@ -1,9 +1,8 @@
 ### This repository stores images used across other GitHub projects. Each set of images is found under the folder named after its repo.
 
 ---
-## Usage example:
 
-**Raw Markdown:**
+### Raw Markdown:
 
 \#\# Images
 \<details\>
@@ -16,8 +15,7 @@
 
 \</details\>
 
-
-**Rendered Output:**
+### Rendered Output:
 
 ## Images
 <details>
