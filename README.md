@@ -10,7 +10,7 @@
 
 \<figure\>
 \<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\>
-\<p\>\<strong\>^ Home page for DosirakLiFT\</strong\>\</p\>
+\<p\>\<strong\>^ Home page for DosirakLiFT\</strong\> - Example image\</p\>
 \</figure\>
 
 \</details\>
@@ -23,7 +23,7 @@
 
 <figure>
 <img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300>
-<p><strong>^ Home page for DosirakLiFT</strong></p>
+<p><strong>^ Home page for DosirakLiFT</strong> - Example image</p>
 </figure>
 
 </details>
