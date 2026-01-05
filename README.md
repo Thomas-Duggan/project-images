@@ -7,7 +7,7 @@
 
 \<figure\> 
 \<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\> 
-\<figcaption\>Home page for DosirakLiFT\</figcaption\> 
+\<figcaption\>^ Home page for DosirakLiFT\</figcaption\> 
 \</figure\>
 
 OR
@@ -16,12 +16,12 @@ Used when inside of a dropdown:
 
 \<figure\>
 \<img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300\>
-\<p\>Home page for DosirakLiFT\</p\>
+\<p\>^ Home page for DosirakLiFT\</p\>
 \</figure\>
 
 
 **Rendered Output (first option):**
 <figure>
 <img src="https://raw.githubusercontent.com/Thomas-Duggan/project-images/refs/heads/main/DosirakLiFT/DosirakLiFT_Home.png" width=300>
-<figcaption>Home page for DosirakLiFT</figcaption>
+<figcaption>^ Home page for DosirakLiFT</figcaption>
 </figure>
